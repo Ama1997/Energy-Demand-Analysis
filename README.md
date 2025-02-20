@@ -49,7 +49,7 @@ The datasets were merged on the date column, and missing values were removed to 
 
 ### 4. Forecast Components
 ![Forecast Components](output_0_6.png)
-*Figure 3: Forecast components.*
+*Figure 4: Forecast components.*
 
 ---
 ## Insights and Recommendations
