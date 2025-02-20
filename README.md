@@ -47,6 +47,9 @@ The datasets were merged on the date column, and missing values were removed to 
 
 ---
 
+### 3. Forecast Components
+![Forecast Components](output_0_6.png)
+*Figure 3: Forecast of electricity demand for the next 365 days.*
 ## Insights and Recommendations
 
 ### Insights
